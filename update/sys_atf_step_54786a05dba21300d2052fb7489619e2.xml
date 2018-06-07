@@ -21,7 +21,7 @@ Confirm that the following fields are mandatory: Requested for, Requested for em
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-06-05 19:54:54</sys_updated_on>
         <table>x_58872_needit_needit</table>
-        <test display_value="When need - Future ">1358e605dba21300d2052fb74896195d</test>
+        <test display_value="When needed - Future ">1358e605dba21300d2052fb74896195d</test>
         <timeout/>
     </sys_atf_step>
     <sys_variable_value action="delete_multiple" query="document_key=54786a05dba21300d2052fb7489619e2"/>
